@@ -1,4 +1,4 @@
-# OpenCV with DNN module build script for Jetson Xavier NX
+# OpenCV with DNN build script for Jetson Xavier NX
 
 This script builds OpenCV from source on Tegra (Nano, NX, AGX, etc.).
 
