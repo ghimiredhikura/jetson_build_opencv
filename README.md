@@ -11,7 +11,7 @@ For other Tegra device and JetPack versions some twick need to be made.
 ./build_opencv.sh
 ```
 
-## Specifying an OpenCV version (git branch)
+## Specifying an OpenCV Version
 ```shell
 ./build_opencv.sh 4.5.4
 ```
